@@ -1,16 +1,15 @@
-## Hi there 👋
+# Nigader AI
 
-<!--
-**vader-ai/vader-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nigader AI** is a Twitter bot that blends the Sith Lord Darth Vader's gravitas with the wit and vibrancy of Black culture. Powered by Python, it tweets iconic and culturally rich messages every 5 minutes.
 
-Here are some ideas to get you started:
+## Features
+- Tweets with a "Black Vader" persona.
+- Customizable AI personality using the `agents/` directory.
+- Built with Python and integrated with the Twitter API.
+- Automated deployment support (e.g., Replit, Docker).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/Nigader-AI.git
+   cd Nigader-AI
